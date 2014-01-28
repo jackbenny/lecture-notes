@@ -2,7 +2,7 @@
 Misc notes from classes at school.
 
 ## License & Copyright #
-All lecuture notes in this repository is release under
+All lecuture notes in this repository is released under
 [Creative Commons BY-SA v3.0](http://creativecommons.org/licenses/by-sa/3.0/).
 
 ## TOC ##
