@@ -2,8 +2,8 @@
 Misc notes from classes at school.
 
 ## License & Copyright #
-All lecuture notes in this repository is release under Creative Commons BY\_SA license. Please read
-the [full license here](http://creativecommons.org/licenses/by-sa/3.0/).
+All lecuture notes in this repository is release under
+[Creative Commons BY-SA v3.0](http://creativecommons.org/licenses/by-sa/3.0/).
 
 ## TOC ##
 * [Routing & Switching, lecture 1, 2014-01-14](https://github.com/jackbenny/lecture-notes/blob/master/RoutingAndSwitching/lecture1.pdf)
